@@ -1,0 +1,28 @@
+{
+  "name": "design-scaffold-project-choice-ross",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --start",
+    "debug": "DEBUG=* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/design-scaffold-project-choice-ross.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/design-scaffold-project-choice-ross/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/design-scaffold-project-choice-ross#readme"
+}
