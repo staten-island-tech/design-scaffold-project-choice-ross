@@ -1,13 +1,13 @@
 :root {
-    --h1:5.653rem;
-    --h2:3.998rem;
-    --h3:2.827rem;
-    --h4:1.999rem;
-    --h5:1.414rem;
+  --h1: 7.594rem;
+  --h2: 5.063rem;
+  --h3: 3.375rem;
+  --h4: 2.25rem;
+  --h5: 1.5rem;
 
-    --oxblue:#00072D;
-    --rbdark:#001c55;
-    --rlbdark:#0a2472;
-    --hblue:#0e6ba8;
-    --npblue:#a6e1fa;
+  --oxblue: #00072d;
+  --rbdark: #001c55;
+  --rlbdark: #0a2472;
+  --hblue: #0e6ba8;
+  --npblue: #a6e1fa;
 }
